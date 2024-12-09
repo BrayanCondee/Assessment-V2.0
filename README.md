@@ -55,3 +55,11 @@ Follow these steps to set up and run the project:
     ```bash
     php artisan serve
     
+## Database
+
+- **DB_HOST=** _mysql-3c260681-mysq-cloud-project.c.aivencloud.com_
+- **DB_PORT=** _17803_
+- **DB_DATABASE=** _assessment_
+- **DB_USERNAME=** _avnadmin_
+- **DB_PASSWORD=** _AVNS_dqJgPf_kGjogOVHiR35_
+  
